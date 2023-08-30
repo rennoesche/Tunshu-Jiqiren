@@ -9,7 +9,9 @@ Forward chat telegram [group/private] to discord channel using py.
 - asyncio
 
 ## How to
-- install python
+- clone repo
+- edit config.yaml
+- install python (if not installed)
 - make venv (optional)
 ```bash
   python -m venv <your-project-name>
