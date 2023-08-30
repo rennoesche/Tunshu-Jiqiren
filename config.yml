@@ -1,0 +1,12 @@
+# Telegram config
+
+api: get your api telegram apps here
+hash: 'get your hash telegram apps here'
+
+input_group_id: input your telegram group id ex. -1001234567
+
+
+# Discord config
+
+discord_channel: put your discord channel id here
+discord_token: put your discord bot token here
